@@ -1,0 +1,15 @@
+Turma: Java
+Quantidade de alunos: 11
+--------------
+Alunos matriculados:
+Alexandre Martins
+Esther Rodrigues
+Yago Ramos
+Letícia Cunha
+Pietra Martins
+Lavínia Cunha
+Natália Gomes
+Thales Farias
+Srta. Ana Júlia Ramos
+Vitor Hugo Lima
+Thomas Peixoto

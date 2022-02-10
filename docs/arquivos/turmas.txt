@@ -1,0 +1,35 @@
+Turma: Java
+Quantidade de alunos: 11
+--------------
+Alunos matriculados:
+Alexandre Martins
+Esther Rodrigues
+Yago Ramos
+Letícia Cunha
+Pietra Martins
+Lavínia Cunha
+Natália Gomes
+Thales Farias
+Srta. Ana Júlia Ramos
+Vitor Hugo Lima
+Thomas Peixoto
+
+
+Turma: Banco de Dados
+Quantidade de alunos: 12
+--------------
+Alunos matriculados:
+Dra. Lavínia Lopes
+Esther Rodrigues
+Luiz Miguel Azevedo
+Dra. Alana Porto
+Yago Ramos
+Letícia Cunha
+Lavínia Cunha
+Natália Gomes
+Thales Farias
+Nathan Nascimento
+Srta. Ana Júlia Ramos
+Vitor Hugo Lima
+
+
